@@ -11,7 +11,7 @@ The repository contains three Python files
 > Used as a module to download the files,
 > and then checksum them.  This script is cross platform and is supported
 > on Linux / MacOS / Windows hosts. Requires the `requests` module.
-> This script is the sample as provided by the BPA Bulk Download tool
+> This script is the same as provided by the BPA Bulk Download tool
 > on the BPA Data Portal.
 
 **query.py**
