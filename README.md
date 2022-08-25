@@ -48,7 +48,10 @@ Before running either of these scripts, please set the CKAN_API_KEY
 environment variable.
 
 You can find your API Key by browsing to:
-https://data.bioplatforms.com/user/mtearle
+
+https://data.bioplatforms.com/user/YOUR_USERNAME
+
+with YOUR_USERNAME replaced by the username you use onthe BPA Data Portal
 
 The API key has the format:
 xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
